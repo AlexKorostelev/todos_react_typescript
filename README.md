@@ -3,7 +3,7 @@
 ### Used technoligies
 * React
 * Redux
-* Material Ui
+* MaterializeCSS
 
 #### Main page:
 ![Main page](https://github.com/AlexKorostelev/todos_react_typescript/blob/master/main_page.jpg "Главная страница")
