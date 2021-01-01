@@ -6,5 +6,7 @@
 * Material Ui
 
 #### Main page:
-![Main page](https://github.com/AlexKorostelev/todos_react_typescript/src/images/about_page.jpg "Главная страница")
+![Main page](https://github.com/AlexKorostelev/todos_react_typescript/blob/master/main_page.jpg "Главная страница")
 
+#### About page:
+![About page](https://github.com/AlexKorostelev/todos_react_typescript/blob/master/about_page.jpg "Информация")
