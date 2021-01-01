@@ -11,3 +11,53 @@ code {
   font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
     monospace;
 }
+
+.plr1rem {
+  padding-left: 1rem;
+  padding-right: 1rem;
+}
+
+.formdivcenter {
+  display: flex;
+  flex-direction: row;
+  vertical-align: center;
+  width: 50vw;
+  margin: 10px auto 0 auto;
+  align-items: center;
+}
+
+.todolistdiv{
+  margin: 0 auto;
+  width: 75vw;
+}
+
+.mbot {
+  margin-bottom: 0px;
+}
+
+input:focus {
+  border-bottom: 1px solid royalblue !important;
+  box-shadow: 0 1px 0 0 royalblue !important;
+}
+
+.todo {
+  margin-bottom: 1rem;
+}
+
+.todo.completed span {
+  text-decoration: line-through;
+}
+
+.todo label {
+  width: 100%;
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  cursor: pointer;
+  padding: 1rem;
+  background: #f3f3f3;
+}
+
+.todo i {
+  z-index: 2;
+}
